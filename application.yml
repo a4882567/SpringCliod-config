@@ -1,1 +1,2 @@
-foo: dome
+server: 
+  port: 3344 

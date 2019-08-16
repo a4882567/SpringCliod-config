@@ -1,6 +1,0 @@
-﻿server: 
-  port: 3344 
-
-spring:
-  application:
-    name: server-a
